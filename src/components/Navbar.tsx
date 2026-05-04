@@ -116,7 +116,7 @@ export default function Navbar() {
               </button>
             ))}
             <a
-              href="/RashedRayhanAyon_QA.pdf"
+              href="../RashedRayhanAyon_QA.pdf"
               download
               className="block mt-3 px-4 py-3 btn-primary rounded-lg text-sm font-semibold text-white text-center"
             >

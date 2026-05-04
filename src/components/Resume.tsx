@@ -139,7 +139,7 @@ export default function Resume() {
             {/* Action buttons */}
             <div className="px-6 sm:px-10 pb-8 flex flex-col sm:flex-row gap-3">
               <a
-                href="/RashedRayhanAyon_QA.pdf"
+                href="../RashedRayhanAyon_QA.pdf"
                 download
                 className="flex-1 flex items-center justify-center gap-2 py-3 btn-primary rounded-xl text-white font-semibold text-sm"
               >
@@ -147,7 +147,7 @@ export default function Resume() {
                 Download Resume 
               </a>
               <a
-                href="/RashedRayhanAyon_QA.pdf"
+                href="../RashedRayhanAyon_QA.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 px-6 py-3 btn-outline rounded-xl font-semibold text-sm"
